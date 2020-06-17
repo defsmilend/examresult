@@ -1,0 +1,60 @@
+{
+  "notes": [
+    {
+      "name": "AMD Ryzen 5 2600",
+      "articule": "145762",
+      "phone": "89252085158",
+      "id": 1
+    },
+    {
+      "name": "AMD Ryzen 5 3600",
+      "articule": "144441",
+      "phone": "89261797986",
+      "id": 2
+    },
+    {
+      "name": "INTEL Core i5 9400F",
+      "articule": "145617",
+      "phone": "89247897821",
+      "id": 3
+    },
+    {
+      "name": "INTEL Core i5 9400F",
+      "articule": "147742",
+      "phone": "892677788787",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "articule": "test",
+      "phone": "test",
+      "id": 6
+    }
+  ],
+  "mother": [
+    {
+      "name": "ASUS M5A78L-M",
+      "articule": "147742",
+      "phone": "12",
+      "id": 1
+    },
+    {
+      "name": "GIGABYTE GA-78LMT",
+      "articule": "147742",
+      "phone": "12",
+      "id": 1
+    },
+    {
+      "name": "ASUS PRIME B3",
+      "articule": "147742",
+      "phone": "12",
+      "id": 1
+    },
+    {
+      "name": "ASUS CROSSHAIR",
+      "articule": "147742",
+      "phone": "12",
+      "id": 1
+    }
+  ]
+}
